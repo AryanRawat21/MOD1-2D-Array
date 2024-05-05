@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RingRotate",
+            "request": "launch",
+            "mainClass": "RingRotate",
+            "projectName": "MOD1-2D Array_44d71c3d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search2D",
+            "request": "launch",
+            "mainClass": "Search2D",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Display2D",
+            "request": "launch",
+            "mainClass": "Display2D",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExitPoint",
+            "request": "launch",
+            "mainClass": "ExitPoint",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMinFind",
+            "request": "launch",
+            "mainClass": "MaxMinFind",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wakanda1",
+            "request": "launch",
+            "mainClass": "Wakanda1",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wakanda2",
+            "request": "launch",
+            "mainClass": "Wakanda2",
+            "projectName": "2D Array_af7a9464"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiraldisplay",
+            "request": "launch",
+            "mainClass": "spiraldisplay",
+            "projectName": "2D Array_af7a9464"
+        }
+    ]
+}
